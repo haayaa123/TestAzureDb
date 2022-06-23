@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/888c12a1-ec85-45a1-84de-2ba117b7d511/microsoft.web/sites/subscriptions/888c12a1-ec85-45a1-84de-2ba117b7d511/resourceGroups/learn-da1fa93f-3266-4002-9f7c-c8bb52c381b1/providers/Microsoft.Web/sites/ExpressAppHaya",
+    "appService.deploySubpath": "."
+}
